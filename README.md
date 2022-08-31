@@ -1,4 +1,4 @@
-# flutter_application_1
+# Random Words Generator
 
 A new Flutter project.
 This app generates an infnite list of random words with the option to save your favorite word.
